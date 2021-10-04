@@ -1,2 +1,2 @@
 # Sample
-Learning
+Learning new things
